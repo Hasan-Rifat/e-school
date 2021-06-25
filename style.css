@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.bg{
+  background:#F0FFF0;;
+}
+
+img{
+  max-width: 100%;
+}
+.bg-2{
+  background: #FFFFFF !important;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.container{
+  max-width: 1440px;
+	margin: auto;
+}
+/* header start  */
+.logo{
+  max-width: 250px;
+  height: auto;
+}
+.navbar ul li a {
+	font-size: 18px !important;
+	font-weight: 500;
+	padding: 6px 27px !important;
+}
+/* header end  */
+/* hero start  */
+/* btn  */
+.hero-left {
+	margin-top: 30px;
+	margin-bottom: 37px;
+	padding-left: 35px;
+}
+.hero {
+	padding: 120px 0;
+	background: #F0FFF0;
+	padding-bottom: 70px;
+}
+.main-btn {
+	border: none !important;
+	padding: 8px 35px !important;
+	background: #21B573;
+	color: #fff !important;
+	border-radius: 30px !important;
+}
+.hero-left h6 {
+	color: #FD511A;
+	font-size: 18px;
+}
+
+.hero-left h1 {
+	font-size: 58px;
+	line-height: 70px;
+	font-weight: 700;
+	letter-spacing: 1.2px;
+	margin: 30px 0;
+}
+.hero-left h1 span {
+	color: #21b573;
+}
+.hero-left p {
+	line-height: 36px;
+	margin-bottom: 35px;
+}
+/* hero end  */
+/* category */
+.category {
+	margin: 40px 0;
+}
+.category-sub {
+	padding: 40px;
+	background: #F8FFFB;
+	height: 270px;
+}
+.category-icon {
+	max-width: 70px;
+	margin: auto;
+}
+
+.category-text {
+	text-align: center;
+	margin: 25px 0;
+}
+/* category end  */
+/* Online Courses start */
+.courses {
+	margin: 130px 0 100px 0;
+}
+.courses-h h3 {
+	color: #413960;
+	text-align: center;
+	margin: 0 0 23px 0;
+	font-size: 36px;
+	line-height: 54px;
+	font-weight: 700;
+}
+.courses-sub .card {
+	padding: 20px;
+	border: none;
+  background: #FFFFFF;
+  box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 18px;
+}
+.courses-sub .card h3 {
+	color: #413960;
+	font-size: 24px;
+	line-height: 36px;
+	margin: 15px 0;
+}
+.courses-sub .card p {
+	line-height: 24px;
+	font-size: 16px;
+}
+.courses-sub .card .card-body .main-btn {
+	margin: 15px 0;
+}
+.coureses-footer {
+	margin-top: 20px;
+}
+
+.coureses-footer img {
+	width: 25px;
+	height: 25px;
+}
+
+/* Online Courses end */
+/* testimonial start  */
+.testimonial-sub-left img {
+	width: 120px;
+}
+.testimonial-h h3 {
+	color: #000;
+	text-align: center;
+	margin: 0 0 30px 0;
+	font-size: 36px;
+	line-height: 54px;
+	font-weight: 700;
+}
+.testimonial-sub-right p {
+	line-height: 30px;
+}
+.testimonial-main {
+	margin: 50px 0;
+	align-items: center;
+	margin-bottom: 0px;
+}
+.testi {
+	margin-bottom: 70px;
+}
+/* testimonial end  */
+/* footer start  */
+.footer {
+	padding: 50px 0;
+	background: #282531;
+}
+.footer-text p {
+	color: #fff;
+	line-height: 30px;
+	font-size: 17px;
+}
+.footer-2 .list-group .list-group-item {
+
+}
+.footer-2 .list-group .list-group-item {
+	border: none;
+  background: #282531 !important;
+}
+.footer-2 .list-group .list-group-item a{
+	text-decoration: none;
+  color: #FFFFFF;
+}
+.list-group-item.blod a {
+	font-weight: 700;
+	color: #fff;
+	line-height: 30px;
+	font-size: 21px;
+}
+.footer-end {
+	margin-top: 40px;
+	text-align: center;
+	padding: 10px 0 5px 0;
+}
+.footer-end p {
+	color: #CDCDCD;
+}
+
+/* footer end */
